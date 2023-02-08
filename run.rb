@@ -18,4 +18,6 @@ fido = Dog.new
 
 snoopy = Dog.new
 
+rex = Dog.new
+
 binding.pry
